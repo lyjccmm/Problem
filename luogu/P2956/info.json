@@ -1,0 +1,36 @@
+{
+    "type":"problem",
+    "ID": "P2956",
+    "title": "[USACO09OCT]The Robot Plow G",
+    "OJ": "luogu",
+    "url": "https://www.luogu.com.cn/problem/P2956",
+    "tag": [
+        "USACO",
+        "2009",
+        "暴力",
+        "二维差分标记"
+    ],
+    "level": [
+        "easy",
+        "入门"
+    ],
+    "description": {
+        "type": "file",
+        "file": "description.txt",
+        "format": "txt"
+    },
+    "sample": [
+        {
+            "type": "file",
+            "input": "input1.txt",
+            "output": "output1.txt"
+        }
+    ],
+    "code": [
+        {
+            "type": "file",
+            "language": "c++",
+            "file": "1.cpp"
+        }
+    ]
+}
