@@ -1,0 +1,58 @@
+{
+    "type":"problem",
+    "ID": "P2036",
+    "OJ": "luogu",
+    "url": "https://www.luogu.com.cn/problem/P2036",
+    "tag": [
+        "COCI",
+        "2008",
+        "Binary",
+        "Gray",
+        "二进制",
+        "格雷码",
+        "回溯",
+        "递归",
+        "枚举"
+    ],
+    "level": [
+        "easy",
+        "入门"
+    ],
+    "description": {
+        "type": "file",
+        "file": "description.txt",
+        "format": "txt"
+    },
+    "sample": [
+        {
+            "type": "file",
+            "input": "input1.txt",
+            "output": "output1.txt"
+        },
+        {
+            "type": "file",
+            "input": "input2.txt",
+            "output": "output2.txt"
+        }
+    ],
+    "code": [
+        {
+            "type": "file",
+            "language": "c++",
+            "file": "1.cpp",
+            "description": {
+                "type": "text",
+                "text": "用二进制递推的写法"
+            }
+        },
+        {
+            "type": "file",
+            "language": "c++",
+            "file": "2.cpp",
+            "description": {
+                "type": "text",
+                "text": "用格雷码递推的写法"
+            }
+        }
+    ]
+}
