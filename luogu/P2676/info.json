@@ -1,0 +1,35 @@
+{
+    "type":"problem",
+    "ID": "P2676",
+    "title": "[USACO07DEC]Bookshelf B",
+    "OJ": "luogu",
+    "url": "https://www.luogu.com.cn/problem/P2676",
+    "tag": [
+        "USACO",
+        "2007",
+        "贪心"
+    ],
+    "level": [
+        "easy",
+        "入门"
+    ],
+    "description": {
+        "type": "file",
+        "file": "description.txt",
+        "format": "txt"
+    },
+    "sample": [
+        {
+            "type": "file",
+            "input": "input1.txt",
+            "output": "output1.txt"
+        }
+    ],
+    "code": [
+        {
+            "type": "file",
+            "language": "c++",
+            "file": "1.cpp"
+        }
+    ]
+}
