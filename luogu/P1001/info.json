@@ -1,0 +1,46 @@
+{
+    "type":"problem",
+    "ID": "P1001",
+    "title": "A+B Problem",
+    "OJ": "luogu",
+    "url": "https://www.luogu.com.cn/problem/P1001",
+    "tag": [
+        "模拟",
+        "A+B",
+        "基础",
+        "入门"
+    ],
+    "level": [
+        "easy",
+        "入门"
+    ],
+    "description": {
+        "type": "file",
+        "file": "description.txt",
+        "format": "txt"
+    },
+    "sample": [
+        {
+            "type": "file",
+            "input": "input1.txt",
+            "output": "output1.txt"
+        }
+    ],
+    "code": [
+        {
+            "type": "file",
+            "language": "c++",
+            "file": "1.cpp"
+        },
+        {
+            "type": "file",
+            "language": "python2",
+            "file": "py2.py"
+        },
+        {
+            "type": "file",
+            "language": "java",
+            "file": "1.java"
+        }
+    ]
+}
