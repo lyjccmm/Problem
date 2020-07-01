@@ -1,0 +1,49 @@
+{
+    "type":"problem",
+    "ID": "P5704",
+    "title": "【深基2.例6】字母转换",
+    "OJ": "luogu",
+    "url": "https://www.luogu.com.cn/problem/P5704",
+    "tag": [
+        "基础",
+        "入门",
+        "cctype"
+    ],
+    "level": [
+        "easy",
+        "入门"
+    ],
+    "description": {
+        "type": "file",
+        "file": "description.txt",
+        "format": "txt"
+    },
+    "sample": [
+        {
+            "type": "file",
+            "input": "input1.txt",
+            "output": "output1.txt"
+        }
+    ],
+    "code": [
+        {
+            "type": "file",
+            "language": "c++",
+            "file": "1.cpp"
+        },
+        {
+            "type": "file",
+            "language": "c++",
+            "file": "2.cpp",
+            "description": {
+                "type": "text",
+                "text": "cctype函数用法"
+            }
+        },
+        {
+            "type": "file",
+            "language": "python2",
+            "file": "py2.py"
+        }
+    ]
+}

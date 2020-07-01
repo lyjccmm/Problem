@@ -1,0 +1,34 @@
+{
+    "type":"problem",
+    "ID": "P5703",
+    "title": "【深基2.例5】苹果采购",
+    "OJ": "luogu",
+    "url": "https://www.luogu.com.cn/problem/P5703",
+    "tag": [
+        "基础",
+        "入门"
+    ],
+    "level": [
+        "easy",
+        "入门"
+    ],
+    "description": {
+        "type": "file",
+        "file": "description.txt",
+        "format": "txt"
+    },
+    "sample": [
+        {
+            "type": "file",
+            "input": "input1.txt",
+            "output": "output1.txt"
+        }
+    ],
+    "code": [
+        {
+            "type": "file",
+            "language": "c++",
+            "file": "1.cpp"
+        }
+    ]
+}

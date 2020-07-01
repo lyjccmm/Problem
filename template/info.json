@@ -1,0 +1,32 @@
+{
+    "type":"problem",
+    "ID": "题号",
+    "title": "标题",
+    "OJ": "luogu",
+    "url": "http://localhost/",
+    "tag": [
+        "标签"
+    ],
+    "level": [
+        "题目难度"
+    ],
+    "description": {
+        "type": "file",
+        "file": "description.txt",
+        "format": "txt"
+    },
+    "sample": [
+        {
+            "type": "file",
+            "input": "input1.txt",
+            "output": "output1.txt"
+        }
+    ],
+    "code": [
+        {
+            "type": "file",
+            "language": "c++",
+            "file": "1.cpp"
+        }
+    ]
+}

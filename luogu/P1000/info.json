@@ -1,0 +1,57 @@
+{
+    "type":"problem",
+    "ID": "P1000",
+    "title": "超级玛丽游戏",
+    "OJ": "luogu",
+    "url": "https://www.luogu.com.cn/problem/P1000",
+    "tag": [
+        "基础",
+        "入门",
+        "c++11"
+    ],
+    "level": [
+        "easy",
+        "入门"
+    ],
+    "description": {
+        "type": "file",
+        "file": "description.txt",
+        "format": "txt"
+    },
+    "sample": [
+        {
+            "type": "file",
+            "input": "input1.txt",
+            "output": "output1.txt"
+        }
+    ],
+    "code": [
+        {
+            "type": "file",
+            "language": "c++",
+            "file": "1.cpp",
+            "description": {
+                "type": "text",
+                "text": "一般正常人的解法"
+            }
+        },
+        {
+            "type": "file",
+            "language": "php",
+            "file": "1.php",
+            "description": {
+                "type": "text",
+                "text": "php直接复制提交，啥代码也不用写"
+            }
+        },
+        {
+            "type": "file",
+            "language": "c++",
+            "file": "1.cpp",
+            "description": {
+                "type": "text",
+                "text": "c++11黑科技，“raw string literal”技术"
+            }
+        }
+    ]
+}
