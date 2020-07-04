@@ -5,9 +5,9 @@
     "OJ": "luogu",
     "url": "https://www.luogu.com.cn/problem/P5704",
     "tag": [
-        "基础",
-        "入门",
-        "cctype"
+        "语言基础",
+        "cctype",
+        "ascii"
     ],
     "level": [
         "easy",

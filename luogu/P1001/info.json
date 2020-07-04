@@ -5,10 +5,9 @@
     "OJ": "luogu",
     "url": "https://www.luogu.com.cn/problem/P1001",
     "tag": [
+        "语言基础",
         "模拟",
-        "A+B",
-        "基础",
-        "入门"
+        "A+B"
     ],
     "level": [
         "easy",
