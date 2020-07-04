@@ -1,0 +1,35 @@
+{
+    "type":"problem",
+    "ID": "P2433",
+    "title": "【深基1-2】小学数学 N 合一",
+    "OJ": "luogu",
+    "url": "https://www.luogu.com.cn/problem/P2433",
+    "tag": [
+        "基础数学",
+        "pow",
+        "保留小数"
+    ],
+    "level": [
+        "easy",
+        "入门"
+    ],
+    "description": {
+        "type": "file",
+        "file": "description.txt",
+        "format": "txt"
+    },
+    "sample": [
+        {
+            "type": "file",
+            "input": "input1.txt",
+            "output": "output1.txt"
+        }
+    ],
+    "code": [
+        {
+            "type": "file",
+            "language": "c++",
+            "file": "1.cpp"
+        }
+    ]
+}
