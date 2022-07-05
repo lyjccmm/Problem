@@ -15,8 +15,7 @@
     ],
     "description": {
         "type": "file",
-        "file": "description.txt",
-        "format": "txt"
+        "file": "description.md"
     },
     "sample": [
         {
@@ -34,7 +33,12 @@
         {
             "type": "file",
             "language": "python2",
-            "file": "py2.py"
+            "file": "1_py2.py"
+        },
+        {
+            "type": "file",
+            "language": "python3",
+            "file": "1_py3.py"
         },
         {
             "type": "file",

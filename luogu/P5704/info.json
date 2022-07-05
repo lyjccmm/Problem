@@ -15,8 +15,7 @@
     ],
     "description": {
         "type": "file",
-        "file": "description.txt",
-        "format": "txt"
+        "file": "description.md"
     },
     "sample": [
         {
@@ -35,7 +34,7 @@
             "type": "file",
             "language": "c++",
             "file": "2.cpp",
-            "description": {
+            "note": {
                 "type": "text",
                 "text": "cctype函数用法"
             }
@@ -43,7 +42,7 @@
         {
             "type": "file",
             "language": "python2",
-            "file": "py2.py"
+            "file": "1_py2.py"
         }
     ]
 }

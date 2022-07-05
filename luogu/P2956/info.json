@@ -16,8 +16,7 @@
     ],
     "description": {
         "type": "file",
-        "file": "description.txt",
-        "format": "txt"
+        "file": "description.md"
     },
     "sample": [
         {

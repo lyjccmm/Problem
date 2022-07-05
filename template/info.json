@@ -12,15 +12,9 @@
     ],
     "description": {
         "type": "file",
-        "file": "description.txt",
-        "format": "txt"
+        "file": "description.md"
     },
     "sample": [
-        {
-            "type": "file",
-            "input": "input1.txt",
-            "output": "output1.txt"
-        }
     ],
     "code": [
         {
