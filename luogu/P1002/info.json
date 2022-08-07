@@ -1,0 +1,34 @@
+{
+    "type":"problem",
+    "ID": "P1002",
+    "title": "[NOIP2002 普及组] 过河卒",
+    "OJ": "luogu",
+    "url": "https://www.luogu.com.cn/problem/P1002",
+    "tag": [
+        "NOIp 普及组",
+        "2002",
+        "动态规划",
+        "dp"
+    ],
+    "level": [
+        "普及-"
+    ],
+    "description": {
+        "type": "file",
+        "file": "description.md"
+    },
+    "sample": [
+    ],
+    "code": [
+        {
+            "type": "file",
+            "language": "c++",
+            "file": "1.cpp"
+        },
+        {
+            "type": "file",
+            "language": "python2",
+            "file": "1_py2.py"
+        }
+    ]
+}

@@ -11,10 +11,10 @@ As usual, the field is partitioned into squares whose sides are parallel to the 
 Consider a field that is 6 squares wide and 4 squares high. As FJ issues a pair of plowing instructions (shown), the field gets plowed as shown by '\*' and '#' (normally plowed field all looks the same, but '#' shows which were most recently plowed):
 
 ```cpp
-......             **....             #####. 
-......  (1,1)(2,4) **....  (1,3)(5,4) #####. 
-......             **....             **.... 
-......             **....             **.... 
+......             **....             #####.
+......  (1,1)(2,4) **....  (1,3)(5,4) #####.
+......             **....             **....
+......             **....             **....
 ```
 A total of 14 squares are plowed.
 
@@ -45,8 +45,8 @@ Farmer John为了让自己从无穷无尽的犁田工作中解放出来，于是
 ### 样例输入 #1
 
 ```
-6 4 2 
-1 1 2 4 
+6 4 2
+1 1 2 4
 1 3 5 4
 ```
 

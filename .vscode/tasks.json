@@ -7,6 +7,19 @@
             "label": "🍎Creat Template",
             "type": "shell",
             "command": "start create_problem_template.bat",
-        }
+        },
+        {
+            "label": "编译c++文件",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-g",
+                "-O2",
+                "-std=c++14",
+                "-o",
+                "${fileBasenameNoExtension}.exe",
+                "${file}",
+            ],
+        },
     ]
 }
