@@ -1,0 +1,30 @@
+{
+    "type": "problem",
+    "ID": "P1003",
+    "title": "[NOIP2011 提高组] 铺地毯",
+    "OJ": "luogu",
+    "url": "https://www.luogu.com.cn/problem/P1003",
+    "tag": [
+        "模拟",
+        "枚举",
+        "暴力",
+        "NOIp 提高组",
+        "2011"
+    ],
+    "level": [
+        "普及-"
+    ],
+    "description": {
+        "type": "file",
+        "file": "description.md"
+    },
+    "sample": [
+    ],
+    "code": [
+        {
+            "type": "file",
+            "language": "c++",
+            "file": "1.cpp"
+        }
+    ]
+}

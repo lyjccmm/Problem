@@ -21,5 +21,10 @@
                 "${file}",
             ],
         },
+        {
+            "label": "查看所有标签和难度",
+            "type": "shell",
+            "command": "python 查看所有标签和难度.py",
+        },
     ]
 }
