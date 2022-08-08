@@ -20,7 +20,6 @@ int main()
     memset(dp, -1, sizeof(dp));
     set(0, 0, 1);
     set(cn, cm, 0);
-    
     set(cn+1, cm+2, 0);
     set(cn+1, cm-2, 0);
     set(cn-1, cm+2, 0);

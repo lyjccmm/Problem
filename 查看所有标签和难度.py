@@ -20,4 +20,3 @@ print(list(all_tags.keys()))
 print()
 print(list(all_levels.keys()))
 print()
-    

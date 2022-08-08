@@ -4,9 +4,14 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "🍎Creat Template",
+            "label": "🍎创建题目模板",
             "type": "shell",
-            "command": "start create_problem_template.bat",
+            "command": "python 创建题目模板.py",
+        },
+        {
+            "label": "⚽查看所有标签和难度",
+            "type": "shell",
+            "command": "python 查看所有标签和难度.py",
         },
         {
             "label": "编译c++文件",
@@ -20,11 +25,11 @@
                 "${fileBasenameNoExtension}.exe",
                 "${file}",
             ],
-        },
-        {
-            "label": "查看所有标签和难度",
-            "type": "shell",
-            "command": "python 查看所有标签和难度.py",
+            "options": {
+                "statusbar": {
+                  "hide" : true
+                }
+            }
         },
     ]
 }

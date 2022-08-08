@@ -48,7 +48,7 @@
             "file": "1.cpp",
             "note": {
                 "type": "text",
-                "text": "c++11黑科技，“raw string literal”技术"
+                "text": "c++11黑科技，“raw string literal”技术，多行字符串，跨行字符串"
             }
         },
         {

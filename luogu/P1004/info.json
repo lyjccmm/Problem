@@ -1,0 +1,40 @@
+{
+    "type": "problem",
+    "ID": "P1004",
+    "title": "[NOIP2000 提高组] 方格取数",
+    "OJ": "luogu",
+    "url": "https://www.luogu.com.cn/problem/P1004",
+    "tag": [
+        "动态规划",
+        "dp",
+        "滚动数组",
+        "二维dp",
+        "步长滚动dp"
+    ],
+    "level": [
+        "普及+",
+        "提高"
+    ],
+    "description": {
+        "type": "file",
+        "file": "description.md"
+    },
+    "sample": [
+    ],
+    "code": [
+        {
+            "type": "file",
+            "language": "c++",
+            "file": "1.cpp"
+        },
+        {
+            "type": "file",
+            "language": "python3",
+            "file": "1_py3.py",
+            "note": {
+                "type": "text",
+                "text": "二维滚动dp，思考发现，相遇的点，步长一定相同，利用这点，只要通过步长遍历，就能处理所有相遇情况，这样就不需要记录路径了。"
+            }
+        }
+    ]
+}
