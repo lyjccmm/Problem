@@ -39,7 +39,7 @@
         {
             "type": "file",
             "language": "c++",
-            "file": "1.cpp",
+            "file": "cpp_1.cpp",
             "note": {
                 "type": "text",
                 "text": "用二进制递推的写法"
@@ -48,7 +48,7 @@
         {
             "type": "file",
             "language": "c++",
-            "file": "2.cpp",
+            "file": "cpp_2.cpp",
             "note": {
                 "type": "text",
                 "text": "用格雷码递推的写法"

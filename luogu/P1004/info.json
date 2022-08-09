@@ -25,12 +25,12 @@
         {
             "type": "file",
             "language": "c++",
-            "file": "1.cpp"
+            "file": "cpp_1.cpp"
         },
         {
             "type": "file",
             "language": "python3",
-            "file": "1_py3.py",
+            "file": "py3_1.py",
             "note": {
                 "type": "text",
                 "text": "二维滚动dp，思考发现，相遇的点，步长一定相同，利用这点，只要通过步长遍历，就能处理所有相遇情况，这样就不需要记录路径了。"

@@ -30,7 +30,7 @@ info_template = '''{
         {
             "type": "file",
             "language": "c++",
-            "file": "1.cpp"
+            "file": "cpp_1.cpp"
         }
     ]
 }
@@ -63,7 +63,7 @@ def processLuogu():
     else:
         print ("题目模板已经创建过了")
         return
-    with open(os.path.join(target_path, "1.cpp"), 'w', encoding='utf-8') as f:
+    with open(os.path.join(target_path, "cpp_1.cpp"), 'w', encoding='utf-8') as f:
         pass
     with open(os.path.join(target_path, "description.md"), 'w', encoding='utf-8') as f:
         pass

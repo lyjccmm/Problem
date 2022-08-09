@@ -20,7 +20,7 @@
         {
             "type": "file",
             "language": "c++",
-            "file": "1.cpp"
+            "file": "cpp_1.cpp"
         }
     ]
 }

@@ -28,12 +28,12 @@
         {
             "type": "file",
             "language": "c++",
-            "file": "1.cpp"
+            "file": "cpp_1.cpp"
         },
         {
             "type": "file",
             "language": "c++",
-            "file": "2.cpp",
+            "file": "cpp_2.cpp",
             "note": {
                 "type": "text",
                 "text": "cctype函数用法"
@@ -42,7 +42,7 @@
         {
             "type": "file",
             "language": "python2",
-            "file": "1_py2.py"
+            "file": "py2_1.py"
         }
     ]
 }

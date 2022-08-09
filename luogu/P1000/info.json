@@ -27,7 +27,7 @@
         {
             "type": "file",
             "language": "c++",
-            "file": "1.cpp",
+            "file": "cpp_1.cpp",
             "note": {
                 "type": "text",
                 "text": "一般正常人的解法"
@@ -36,7 +36,7 @@
         {
             "type": "file",
             "language": "php",
-            "file": "1.php",
+            "file": "php_1.php",
             "note": {
                 "type": "text",
                 "text": "php直接复制提交，啥代码也不用写"
@@ -45,7 +45,7 @@
         {
             "type": "file",
             "language": "c++",
-            "file": "1.cpp",
+            "file": "cpp_1.cpp",
             "note": {
                 "type": "text",
                 "text": "c++11黑科技，“raw string literal”技术，多行字符串，跨行字符串"
@@ -54,7 +54,7 @@
         {
             "type": "file",
             "language": "python2",
-            "file": "1_py2.py",
+            "file": "py2_1.py",
             "note": {
                 "type": "text",
                 "text": "python2实现"

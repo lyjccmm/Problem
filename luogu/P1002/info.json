@@ -23,12 +23,12 @@
         {
             "type": "file",
             "language": "c++",
-            "file": "1.cpp"
+            "file": "cpp_1.cpp"
         },
         {
             "type": "file",
             "language": "python2",
-            "file": "1_py2.py"
+            "file": "py2_1.py"
         }
     ]
 }
