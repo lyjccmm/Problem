@@ -1,17 +1,18 @@
 {
     "type": "problem",
-    "ID": "P1003",
-    "title": "[NOIP2011 提高组] 铺地毯",
+    "ID": "P1005",
+    "title": "[NOIP2007 提高组] 矩阵取数游戏",
     "OJ": "luogu",
-    "url": "https://www.luogu.com.cn/problem/P1003",
+    "url": "https://www.luogu.com.cn/problem/P1005",
     "tag": [
-        "模拟",
-        "枚举",
+        "区间dp",
+        "高精度",
         "NOIp 提高组",
-        "2011"
+        "2007"
     ],
     "level": [
-        "普及-"
+        "提高+",
+        "省选-"
     ],
     "description": {
         "type": "file",
@@ -24,6 +25,11 @@
             "type": "file",
             "language": "c++",
             "file": "1.cpp"
+        },
+        {
+            "type": "file",
+            "language": "python3",
+            "file": "1_py3.py"
         }
     ]
 }
